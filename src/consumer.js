@@ -1,7 +1,10 @@
 import { Kafka } from "kafkajs";
 import { SchemaRegistry } from "@immocapital/data-platform-sdk";
 
-const SCHEMA_REGISTRY = new SchemaRegistry();
+const SCHEMA_REGISTRY = new SchemaRegistry({
+  debug: true,
+  isLocal: true,
+});
 
 const kafka = new Kafka({
   clientId: "property-management-resident-consumer",
