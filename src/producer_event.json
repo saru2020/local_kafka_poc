@@ -1,0 +1,53 @@
+{
+    "key": "property-management-resident(100377)-producer",
+    "value": {
+        "lastName": "Greenfelder",
+        "propertyAddress": {
+            "address": {
+                "country": "GERMANY",
+                "city": "Hamburg",
+                "street": "Eimsbütteler Straße 15",
+                "postalCode": "22769",
+                "name": "",
+                "region": ""
+            }
+        },
+        "jobTitle": "N/A",
+        "salutationCode": "HERR_FRAU",
+        "dateOfBirth": "1992-01-02T00:00:00.000Z",
+        "language": "EN",
+        "createdAt": "2023-11-27T08:16:43.580Z",
+        "firstName": "Ethelyn",
+        "jobDomain": "BUSINESS",
+        "monthlyIncomeCurrencyType": "GBP",
+        "postalAddress": {
+            "address": {
+                "country": "Germany",
+                "city": "Hannover",
+                "street": "Freidingstraße 31",
+                "isoCountryCode": "DE",
+                "postalCode": "30559",
+                "name": "",
+                "region": ""
+            }
+        },
+        "nationality": "GERMAN",
+        "phone": "+39 97 573 38 31",
+        "id": "100377",
+        "email": "Ethelyn_Greenfelder53@yahoo.com",
+        "monthlyIncome": 0,
+        "updatedAt": "2024-08-13T04:54:19.841Z",
+        "immoRef": [
+            "Charismatic.Red.Salmon"
+        ],
+        "buildingId": [
+            "B05_0179"
+        ],
+        "buildingUnitId": [
+            "B05_0179_0041"
+        ]
+    },
+    "headers": {
+        "source": "PROPERTY_MANAGEMENT"
+    }
+}
