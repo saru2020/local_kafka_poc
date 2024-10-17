@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@immocapital/data-platform-sdk": "file:../../repos/immo-data-platform/sdk/data-platform-sdk",
+    "@immocapital/data-platform-sdk": "file:../immo-data-platform/sdk/data-platform-sdk",
     "kafkajs": "^2.2.4"
   },
   "keywords": [],
